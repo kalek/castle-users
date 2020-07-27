@@ -1,0 +1,11 @@
+header {
+  height: 68px;
+  display: flex;
+  align-items: center;
+  border: 1px solid $mercury;
+  padding: 0 30px;
+  background: $white;
+  .logo {
+    max-height: 32px;
+  }
+}
