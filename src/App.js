@@ -2,12 +2,12 @@ import React from 'react';
 
 import Header from 'components/Header';
 
-import { Counter } from './features/counter/Counter';
+import Users from './features/users/Users';
 
 const App = () => (
   <div className="App">
     <Header />
-    <Counter />
+    <Users />
   </div>
 );
 
